@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">dicerollcw</string>
+    <string name="about_label">About</string>
+    <string name="new_game">New Game</string>
+    <string name="win">You win!</string>
+    <string name="playerScore">PLAYER:</string>
+    <string name="lose">You lose</string>
+    <string name="winCount">H:0/C:0</string>
+    <string name="die_image">die image</string>
+    <string name="game_name">DICE IT</string>
+    <string name="cpuScore">CPU:</string>
+    <string name="player">PLAYER</string>
+    <string name="score">SCORE</string>
+    <string name="cpu">CPU</string>
+    <string name="player_dice_1">player Dice 1</string>
+    <string name="player_dice_2">player dice 2</string>
+    <string name="player_dice_3">player dice 3</string>
+    <string name="player_dice_4">player dice 4</string>
+    <string name="player_dice_5">player dice 5</string>
+    <string name="cpu_dice_1">cpu dice 1</string>
+    <string name="cpu_dice_2">cpu dice 2</string>
+    <string name="cpu_dice_3">cpu dice 3</string>
+    <string name="cpu_dice_4">cpu dice 4</string>
+    <string name="cpu_dice_5">cpu dice 5</string>
+    <string name="target">TARGET</string>
+    <string name="easy">EASY</string>
+    <string name="hard">HARD</string>
+    <string name="set">SET</string>
+    <string name="about_content">I confirm that I understand what plagiarism is and have read and understood the section on Assessment Offences in the Essential Information for Students. The work that I have submitted is entirely my own.</string>
+    <string name="student_id">w1903066</string>
+    <string name="name">Farwaiz Firthouse</string>
+    <string name="throw_button">Throw</string>
+    <string name="score_button">Score</string>
+</resources>
